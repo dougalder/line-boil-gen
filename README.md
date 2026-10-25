@@ -1,5 +1,7 @@
 # Line Boil Generator
 
+[Launch Line Boil Generator app](https://dougalder.github.io/line-boil-gen/)
+
 Transform a single drawing or cutout into a mesmerizing boiling animation cycle. Everything runs in your browser—no installation required, no network calls (except for fonts), completely offline once loaded.
 
 ![Desktop screenshot](docs/screenshots/02-desktop-with-demo.png)
